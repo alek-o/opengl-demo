@@ -1,0 +1,16 @@
+# Ignore build artifacts
+*.obj
+*.exe
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Ignore Visual Studio user files
+*.user
+*.suo
+*.sdf
+
+# Ignore Debug and Release directories
+Debug/
+Release/
+x64/
